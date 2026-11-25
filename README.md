@@ -43,17 +43,23 @@ To install VMware, set up Kali Linux as a virtual machine, and install Sleuth Ki
 ## PROGRAM:
 
 ## OUTPUT:
-**VIRTUAL BOX:**
+# VIRTUAL BOX:
 
 
 <img width="1357" height="715" alt="dfdi 1" src="https://github.com/user-attachments/assets/865affb4-d5c2-4a43-b09b-e14cabc0e0d0" />
-**KALI LINUX:**
+
+
+# KALI LINUX:
 
 
 <img width="1365" height="719" alt="dfdi 2" src="https://github.com/user-attachments/assets/0485131e-b114-467d-b1fc-624dfe398125" />
-**SLEUTH-KIT:**
 
 
-<img width="540" height="149" alt="dfdi 3" src="https://github.com/user-attachments/assets/1fe3f9f7-91cd-41a0-843f-5cf4e11a2b9a" />
+# SLEUTH-KIT:
+
+
+<img width="540" height="149" alt="dfdi 3" src="https://github.com/user-attachments/assets/1fe3f9f7-91cd-41a0-843f-5cf4e11a2b9a" />   
+
+   
 ## RESULT:
 The setup and installation of VMware, Kali Linux, and Sleuth Kit was completed successfully.
