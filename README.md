@@ -1,4 +1,4 @@
-<img width="540" height="149" alt="dfdi 3" src="https://github.com/user-attachments/assets/07e2e5ec-d0e4-481d-97cd-7e492c8ea094" /># Install-VMWare-Install-Kali-Linux-and-Install-Sleuth-Kit
+# Install-VMWare-Install-Kali-Linux-and-Install-Sleuth-Kit
 ### Name: BHUVANESH S
 ### Reg No: 212225040049
 ## AIM:
